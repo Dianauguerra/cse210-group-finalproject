@@ -38,6 +38,8 @@ root                    ( project root folder )
 
 ## Authors
 ---
-* Miguel López ( lop18028@byui.edu ) : Create and code __main__.py, all the casting classes( Actor, Meteorite, Score, Spacecraft and Square_Timer classes ), Game class from directing classes. Oversaw the review of the project as a whole.
+* Miguel López ( lop18028@byui.edu ) : Create and code __main__.py, all the casting classes( Actor, Meteorite, Score, Spacecraft and Square_Timer classes ) and Game class from directing classes. Oversaw the review of the project as a whole.
 * Ryan Weinheimer ( ryanweinheimer@gmail.com ) : Update Game class from directing classes. Create and code Point Class from shared clases and constants.py file. Checked that the program apply the four principles of programming with classes.
 * Diana Guerra ( diana.1609@hotmail.com ) : Create the team repository and README file. Create and code Velocity Class from shared clases. Checked that the program apply the four principles of programming with classes.
+* Eduardo Mosquera Galarza ( mos21008@byui.edu ) : Updated Score class from casting classes and updated Point class from shared classes.
+* Chioneso Chatayika( cchatayika@outlook.com ) : Updated Velocity class from shared classes. Updated constants.py file.
